@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+# Issues
+
+Please file specific issues, bugs, or feature requests in our issue tracker.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
